@@ -52,7 +52,7 @@ plt.show()
 ```
 
 
-<H3>Output:</H3>
+## Output:
 ![image](https://github.com/user-attachments/assets/5785742d-f52c-495d-ae91-bfc919fc8440)
 
 
